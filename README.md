@@ -18,8 +18,8 @@ To write a program to predict the marks scored by a student using the simple lin
  Step 7.Compare the graphs and hence we obtained the linear regression for the given datas.
  Step 8.End
 ```
-Developed by: KAVIYA SNEKA M
-RegisterNumber: 212223040091
+Developed by: KAMALESH S
+RegisterNumber: 212223040083
 
 
 ```
